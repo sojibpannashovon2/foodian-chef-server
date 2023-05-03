@@ -18,6 +18,13 @@ app.get('/recipes', (req, res) => {
     res.send(recipes)
 })
 
+app.get('/recipes/:id', (req, res) => {
+    const Id = req.params.id
+
+    const selectedId = recipes.find(pd => pd.id = Id)
+    res.send(selectedId);
+})
+
 app.listen(port, () => {
     console.log(`Foodian Chef is running at port: ${port}`);
 })
