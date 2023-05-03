@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Lucy Zhang",
+        "years_of_experience": 10,
+        "likes": 5000,
+        "photo": "https://example.com/chef-a.jpg",
+        "recipes_number": 100,
+        "recipe_name": "Hot and Sour Soup",
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "description": " Hot and sour soup is a simple yet incredibly flavorful dish made with lots of fresh veggies and vibrant spices. It's a spicy, sour and hot soup that's popular in Indo-Chinese cuisine, and is very easy to make at home. Here you'll find step-by-step instructions and photos to make the best vegan hot and sour soup from scratch"
+    },
+    {
+        "id": 2,
+        "name": "Mapo Tofu",
+        "photo": "https://example.com/mapo-tofu.jpg",
+        "recipe_name": "Ground pork with  silken tofu",
+        "recipes_number": 105,
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "description": "Seaweed is commonly used in oriental cuisine like Japanese, Korean and Chinese. I often use the seasoned seaweed to add flavours in soup, sometimes cook soups with the unflavoured ones, that normally comes in dried sheet form.Just soak a sheet of seaweed in water until it softens. After rinsing thoroughly, it's ready to cook with other ingredients I like."
+    },
+    {
+        "id": 3,
+        "name": "Chef A",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta convallis velit, at iaculis odio lobortis vitae. Donec convallis maximus risus vel egestas.",
+        "photo": "https://example.com/chef-a.jpg",
+        "recipes_number": 150,
+        "recipe_name": "Chiken Cury",
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "directions": "Toss the chicken pieces in the cornflour and season well. Set them aside.Fry the onion in half of the oil in a wok on a low to medium heat, until it softens about 5-6 minutes  then add the garlic and cook for a minute. Stir in the spices and sugar and cook for another minute, then add the stock and soy sauce, bring to a simmer and cook for 20 minutes. Tip everything into a blender and blitz until smooth."
+    },
+    {
+        "id": 4,
+        "name": "Mapo Tofu",
+        "photo": "https://example.com/mapo-tofu.jpg",
+        "recipe_name": "Beef with Firm tofu",
+        "recipes_number": 200,
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "directions": "Everything is served with Bai Jiu, a stiff, white lightning liquor made of sorghum (usually 90 proof or higher!) very popular in China.(A friend of mine who visits his Mongolian in-laws almost always ends up drunk and horizontal on the couch after the traditional welcome-home dinner!).As for the true origins of Mongolian beef, my theory is that someone just forgot to add the orange to a wok full of Orange Beef, and added more sugar instead. Hence, the Mongolian Beef recipe was born. (But, as Judy and the girls would say, that's just my crazy theory/the ramblings of an old coot!).Anyway, chalk it up to Chinese-American menu planners and marketers who dubbed the dish “Mongolian Beef.”It's a close cousin to “Singapore Noodles,” a dish that many actual Singaporeans scratch their heads over most likely born in the stainless steel kitchen of a Chinese takeout joint!"
+    },
+    {
+        "id": 5,
+        "name": "Joyce Chen",
+        "years_of_experience": 15,
+        "likes": 8000,
+        "photo": "https://example.com/chef-a.jpg",
+        "recipe_name": "Chicken Gril",
+        "recipes_number": 300,
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "directions": "We all love BBQ Chicken. We all love pork Char Siu. So I ask you. Why not combine them and make char siu grilled chicken? I was scrolling through old posts the other day, looking for grilling recipes to make this weekend, when I rediscovered my dad's recipe for Char Siu on the grill. Now, that recipe WAS pretty brilliant.If you're not familiar, Char Siu is a savory, slightly sweet barbecued pork popular in Cantonese cuisine. If you've ever walked past a Cantonese restaurant in whatever Chinatown happens to be nearest you, you've probably seen it in metal pans underneath fluorescent lights and the roast ducks hanging in the window."
+    },
+    {
+        "id": 6,
+        "name": "Mei Lin",
+        "years_of_experience": 12,
+        "likes": 4500,
+        "photo": "https://example.com/chef-a.jpg",
+        "recipes_number": 202,
+        "recipe_name": "Beef with Tomato",
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "directions": "We all love BBQ Chicken. We all love pork Char Siu. So I ask you. Why not combine them and make char siu grilled chicken? I was scrolling through old posts the other day, looking for grilling recipes to make this weekend, when I rediscovered my dad's recipe for Char Siu on the grill. Now, that recipe WAS pretty brilliant.If you're not familiar, Char Siu is a savory, slightly sweet barbecued pork popular in Cantonese cuisine. If you've ever walked past a Cantonese restaurant in whatever Chinatown happens to be nearest you, you've probably seen it in metal pans underneath fluorescent lights and the roast ducks hanging in the window."
+    },
+    {
+        "id": 7,
+        "name": "Dan Dan Noodles",
+        "photo": "https://example.com/dan-dan-noodles.jpg",
+        "recipe_name": "Beef with Broccoli",
+        "recipes_number": 170,
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "directions": "Everything is served with Bai Jiu, a stiff, white lightning liquor made of sorghum (usually 90 proof or higher!) very popular in China.(A friend of mine who visits his Mongolian in-laws almost always ends up drunk and horizontal on the couch after the traditional welcome-home dinner!).As for the true origins of Mongolian beef, my theory is that someone just forgot to add the orange to a wok full of Orange Beef, and added more sugar instead. Hence, the Mongolian Beef recipe was born. (But, as Judy and the girls would say, that's just my crazy theory/the ramblings of an old coot!).Anyway, chalk it up to Chinese-American menu planners and marketers who dubbed the dish “Mongolian Beef.”It's a close cousin to “Singapore Noodles,” a dish that many actual Singaporeans scratch their heads over most likely born in the stainless steel kitchen of a Chinese takeout joint!"
+    },
+    {
+        "id": 8,
+        "name": "Mei Lin",
+        "years_of_experience": 12,
+        "likes": 4500,
+        "photo": "https://example.com/chef-a.jpg",
+        "recipes_number": 140,
+        "recipesItem": [
+            {
+                "recipe_name": "Beef Wellington",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "parma ham",
+                    "egg"
+                ],
+                "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "potatoes",
+                    "carrots",
+                    "onions",
+                    "peas"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Baked Mac and Cheese",
+                "ingredients": [
+                    "macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk"
+                ],
+                "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+                "rating": 4.0,
+                "favorite": false
+            }
+        ],
+        "description": "Seaweed is commonly used in oriental cuisine like Japanese, Korean and Chinese. I often use the seasoned seaweed to add flavours in soup, sometimes cook soups with the unflavoured ones, that normally comes in dried sheet form.Just soak a sheet of seaweed in water until it softens. After rinsing thoroughly, it's ready to cook with other ingredients I like."
+    }
+]
